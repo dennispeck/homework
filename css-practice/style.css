@@ -37,6 +37,5 @@ body {
       color: green;
   }
   #styledImage {
-border-color: orange;
-border-radius: 10cm;
+    border: 10px solid orange;
   }
